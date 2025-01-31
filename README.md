@@ -1,0 +1,2 @@
+# strenquate
+Definition of strenquate
